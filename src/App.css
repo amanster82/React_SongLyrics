@@ -34,3 +34,7 @@
 .hey {
   color: red;
 }
+
+button:focus {
+  outline: 0;
+}
